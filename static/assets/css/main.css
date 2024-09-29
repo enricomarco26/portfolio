@@ -1911,7 +1911,7 @@ input, select, textarea {
 /* Box */
 
 	.box {
-		background: #282828;
+		background: #000000;
 		box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 0.15), 0px 2px 3px 0px rgba(0, 0, 0, 0.1);
 		text-align: center;
 		padding: 2em;
@@ -2036,7 +2036,7 @@ input, select, textarea {
 /* Nav */
 
 	#nav {
-		background-color: #282828;
+		background-color: #000000;
 		text-align: center;
 		position: fixed;
 		left: 0;
